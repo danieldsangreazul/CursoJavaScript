@@ -25,3 +25,5 @@ for (let i = 1; i <= 20; i++) {
 }
 
 contenedor.appendChild(documentFragment);
+
+//EJEMPLOS BASICO
